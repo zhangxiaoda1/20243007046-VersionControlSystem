@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Practical3_GitHub</string>
+    <string name="cancel">Cancel</string>
 </resources>
